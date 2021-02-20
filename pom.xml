@@ -73,7 +73,7 @@
     </scm>
 
     <properties>
-        <org.b3log.latke.version>2.5.7</org.b3log.latke.version>
+        <org.b3log.latke.version>3.4.9</org.b3log.latke.version>
 
         <slf4j.version>1.7.5</slf4j.version>
         <jsoup.version>1.9.1</jsoup.version>
@@ -85,7 +85,7 @@
         <jodd.version>5.0.3</jodd.version>
         <owasp.version>1.2.2</owasp.version>
         <snakeyaml.version>1.18</snakeyaml.version>
-        <freemarker.version>2.3.28</freemarker.version>
+        <freemarker.version>2.3.30</freemarker.version>
         <user-agent-utils.version>1.21</user-agent-utils.version>
         <servlet.version>3.1.0</servlet.version>
 
